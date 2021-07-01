@@ -1,0 +1,24 @@
+ div#container ul.my-songs li{
+     color: tomato;
+     background: white;
+ }
+ 
+ 
+ 
+/* inline style attribute> id selector> class selector> elememt selector
+
+h1{
+      color:green; 
+}
+
+
+.h1class{
+  color:red;
+
+}
+
+
+#h1id{
+    color:blue;
+}
+/*
